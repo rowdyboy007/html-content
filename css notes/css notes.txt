@@ -1,0 +1,20 @@
+css notes
+
+
+back ground-color
+
+back ground-imqge;URL()
+
+back ground-repeat;
+	
+	repeat,no-repeat,repeat-x,property-y
+
+back ground-attachment; fixed, scroll
+
+back ground-position:
+
+	top right, top left, bottom, center
+
+back ground(shorthand)
+
+back ground-size

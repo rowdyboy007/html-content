@@ -1,0 +1,28 @@
+input tag  is going to carry
+ mutliple attributes 
+type attributes
+place holder
+name
+value
+
+
+type attributes values
+- number
+-text
+-date
+-email
+-password
+-radio
+-checkbox
+-submit
+
+
+
+place holder carries aa dumy message
+  
+
+name attributes help to give a unquie identity 
+
+
+value attributes carries of the input filed
+ 

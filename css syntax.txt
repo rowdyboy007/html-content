@@ -1,0 +1,67 @@
+css syntax
+
+selector{
+     properties;
+     properties;
+     .
+     .
+}
+  
+ selector means pick an element
+
+property:value;
+
+{} block
+
+;	which specifies that property is ended
+
+
+
+
+
+There are 5 types of selectors
+  
+simple:-
+
+-> element(h1,p,span,img), id(#), class(.)
+
+combinator:-
+
+ -> descandant(), child(>), adjacent(+), general(~)
+
+pseudo class:-
+
+-> :link, :visted, :hover, :active
+
+pseudo element:-
+
+-> ::first-line,   ::first-letter,
+
+attribute:-
+
+-> based on the element attribute we apply styling
+
+
+
+
+Color values and there ways
+
+ 3 ways 
+
+   	color name---red,green,blue
+
+ 	color in rgb()
+		(red, green, blue) 0-255
+		
+		rgba(red, green, blue, opacity)0-1
+	
+	color in hexa cod	
+		
+		#rrggbb
+		
+		0 1 2 3 4 5 6 7 8 9  10 11 12 13 14 15 16
+				     a  b  c d   e  f  g  		
+				
+	
+
+
